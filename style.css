@@ -506,9 +506,9 @@
 }
 
 .footer__logo--img {
-    height: 50px;
+    height: 40px;
     width: auto;
-    max-width: 200px;
+    max-width: 150px;
 }
 
 .footer__links {
